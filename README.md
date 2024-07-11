@@ -3,7 +3,7 @@ I'm @Jishnu-Vasudev, a passionate coder with a love for Python and all things te
 
 ## About Me
 - 👀 I’m interested in developing innovative software solutions and exploring new technologies.
-- 👨‍🎓 Currently a college student pursuing a BTech Degree in Computer Science and Engineering
+- 👨‍🎓 Currently a college student pursuing a BTech Degree in Computer Science and Engineering.
 - 💻 I’m a coding enthusiast with a knack for Python.
 - 🌐 I dabble in C++, Java, HTML, CSS, and a bit of JavaScript.
 - 🌱 I’m currently learning more about machine learning and web development.
